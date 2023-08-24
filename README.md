@@ -9,11 +9,11 @@
   </p>
 -->  
   <p align="center">
-      <a href="https://github.com/gonglei007/GameDevMind/watchers" target="_blank"><img src="https://img.shields.io/github/watchers/gonglei007/GameDevMind.svg" style="display: inherit;"/></a>
-      <a href="https://github.com/gonglei007/GameDevMind/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/gonglei007/GameDevMind.svg" style="display: inherit;"/></a>
-      <a href="https://github.com/gonglei007/GameDevMind/network/members" target="_blank"><img src="https://img.shields.io/github/forks/gonglei007/GameDevMind.svg" style="display: inherit;"/></a>
-      <img src="https://img.shields.io/github/repo-size/gonglei007/GameDevMind.svg" style="display: inherit;"/>
-      <a href="https://github.com/gonglei007/GameDevMind/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/gonglei007/GameDevMind.svg" style="display: inherit;"/></a>
+      <a href="https://github.com/gonglei007/GameDevMind-EN/watchers" target="_blank"><img src="https://img.shields.io/github/watchers/gonglei007/GameDevMind-EN.svg" style="display: inherit;"/></a>
+      <a href="https://github.com/gonglei007/GameDevMind-EN/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/gonglei007/GameDevMind-EN.svg" style="display: inherit;"/></a>
+      <a href="https://github.com/gonglei007/GameDevMind-EN/network/members" target="_blank"><img src="https://img.shields.io/github/forks/gonglei007/GameDevMind-EN.svg" style="display: inherit;"/></a>
+      <img src="https://img.shields.io/github/repo-size/gonglei007/GameDevMind-EN.svg" style="display: inherit;"/>
+      <a href="https://github.com/gonglei007/GameDevMind-EN/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/gonglei007/GameDevMind-EN.svg" style="display: inherit;"/></a>
   </p>
 </p>
 <br/>
@@ -67,12 +67,12 @@
 
 <p>
 
-![](https://img.shields.io/static/v1?label=1&message=Basic Capability&color=red)
-![](https://img.shields.io/static/v1?label=2&message=Technical Capability&color=orange)
-![](https://img.shields.io/static/v1?label=3&message=Development Capability&color=yellow)
-![](https://img.shields.io/static/v1?label=4&message=Production Capability&color=green)
-![](https://img.shields.io/static/v1?label=5&message=Management Capability&color=blue)
-![](https://img.shields.io/static/v1?label=6&message=Operation Capability&color=purple)
+![](https://img.shields.io/static/v1?label=1&message=Basic%20Capability&color=red)
+![](https://img.shields.io/static/v1?label=2&message=Technical%20Capability&color=orange)
+![](https://img.shields.io/static/v1?label=3&message=Development%20Capability&color=yellow)
+![](https://img.shields.io/static/v1?label=4&message=Production%20Capability&color=green)
+![](https://img.shields.io/static/v1?label=5&message=Management%20Capability&color=blue)
+![](https://img.shields.io/static/v1?label=6&message=Operation%20Capability&color=purple)
   
 </p>
 
@@ -82,14 +82,14 @@
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
-            <a href="mds/1.Basic Capability/1.Basic Capability.md"><img src="./images/subjects/subjects.001.jpeg" height="192"></img></a>
+            <a href="mds/1.Basic%20Capability/1.Basic%20Capability.md"><img src="./images/subjects/subjects.001.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
             As a software product, game development requires certain foundational skills. These capabilities are crucial in software development and form the fundamental skills during the development process. The higher the proficiency in these foundational skills, the more robust and efficient the overall game development process becomes.
             </div>
             <br/>
-            <div align="right"><a href="mds/1.Basic Capability/1.Basic Capability.md">[Read more...]</a></div>
+            <div align="right"><a href="mds/1.Basic%20Capability/1.Basic%20Capability.md">[Read more...]</a></div>
         </td>
     </tr>
 </table>
@@ -100,14 +100,14 @@
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
-            <a href="mds/2.Technical Capability/2.Technical Capability.md"><img src="./images/subjects/subjects.002.jpeg" height="192"></img></a>
+            <a href="mds/2.Technical%20Capability/2.Technical%20Capability.md"><img src="./images/subjects/subjects.002.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
                 Game products also have their specific technical requirements during development. To create a game product, these technical capabilities are necessary.
             </div>
             <br/>
-            <div align="right"><a href="mds/2.Technical Capability/2.Technical Capability.md">[Read more...]</a></div>
+            <div align="right"><a href="mds/2.Technical%20Capability/2.Technical%20Capability.md">[Read more...]</a></div>
         </td>
     </tr>
 </table>
@@ -118,14 +118,14 @@
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
-            <a href="mds/3.Development Capability/3.Development Capability.md"><img src="./images/subjects/subjects.003.jpeg" height="192"></img></a>
+            <a href="mds/3.Development%20Capability/3.Development%20Capability.md"><img src="./images/subjects/subjects.003.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
                 Games are commodities with artistic elements, constructed from digital content and interactive features. Developing a game product requires a distinct set of technologies, methods, tools, and processes that differentiate it from other software products.
             </div>
             <br/>
-            <div align="right"><a href="mds/3.Development Capability/3.Development Capability.md">[Read more...]</a></div>
+            <div align="right"><a href="mds/3.Development%20Capability/3.Development%20Capability.md">[Read more...]</a></div>
         </td>
     </tr>
 </table>
@@ -136,14 +136,14 @@
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
-            <a href="mds/4.Production Capability/4.Production Capability.md"><img src="./images/subjects/subjects.004.jpeg" height="192"></img></a>
+            <a href="mds/4.Production%20Capability/4.Production%20Capability.md"><img src="./images/subjects/subjects.004.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
                 With the development of the gaming industry, the scale of game product development is becoming larger. At this point, in addition to making the product content enjoyable and developing its core features, it's also crucial to efficiently produce the product. This requires various tools and methods to enhance production efficiency.
             </div>
             <br/>
-            <div align="right"><a href="mds/4.Production Capability/4.Production Capability.md">[Read more...]</a></div>
+            <div align="right"><a href="mds/4.Production%20Capability/4.Production%20Capability.md">[Read more...]</a></div>
         </td>
     </tr>
 </table>
@@ -154,14 +154,14 @@
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
-            <a href="mds/5.Management Capability/5.Management Capability.md"><img src="./images/subjects/subjects.005.jpeg" height="192"></img></a>
+            <a href="mds/5.Management%20Capability/5.Management%20Capability.md"><img src="./images/subjects/subjects.005.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
                 The most challenging aspect of management lies in scale, moderation, and adaptability. One minute less on the fire, and it's undercooked; one minute more, and it's burnt. The pursuit is to simplify complex matters, yet the reality can sometimes turn simple matters into complex ones.
             </div>
             <br/>
-            <div align="right"><a href="mds/5.Management Capability/5.Management Capability.md">[Read more...]</a></div>
+            <div align="right"><a href="mds/5.Management%20Capability/5.Management%20Capability.md">[Read more...]</a></div>
         </td>
     </tr>
 </table>
@@ -172,14 +172,14 @@
 <table width="100%" border=1>
     <tr>
         <td width="256" height="192">
-            <a href="mds/6.Operation Capability/6.Operation Capability.md"><img src="./images/subjects/subjects.006.jpeg" height="192"></img></a>
+            <a href="mds/6.Operation%20Capability/6.Operation%20Capability.md"><img src="./images/subjects/subjects.006.jpeg" height="192"></img></a>
         </td>
         <td>
             <div align="top">
                 As an organization, regardless of the technology or capabilities you possess, the ultimate goal is to make money. In the current market environment, creating an enjoyable game doesn't necessarily guarantee profitability. A series of operational skills is required to ensure the product's operation, profitability, and the sustained existence of the team. Here, only the technology-related aspects are highlighted.
             </div>
             <br/>
-            <div align="right"><a href="mds/6.Operation Capability/6.Operation Capability.md">[Read more...]</a></div>
+            <div align="right"><a href="mds/6.Operation%20Capability/6.Operation%20Capability.md">[Read more...]</a></div>
         </td>
     </tr>
 </table>
@@ -204,7 +204,7 @@
 ## Repo rosters
 ## Contributors
 
-| [公雷(发起者)](https://github.com/gonglei007),&emsp; [Game Atom](https://github.com/gameatom),&emsp; [管仲才](https://github.com/guanzhongcai),&emsp; [王栋](https://github.com/wangdng),&emsp; ... |
+| [公雷(Initiator)](https://github.com/gonglei007),&emsp; [Game Atom](https://github.com/gameatom),&emsp;  ... |
 | :---: |
 
 We sincerely invite more contributors.
