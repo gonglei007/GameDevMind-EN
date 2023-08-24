@@ -34,4 +34,4 @@ montage \
 	-geometry +20+40 	\
 	-background "#FFFB00" 	\
 	-title "(3)"   \
-	../overview/3.研发能力.png
+	../overview/3.Development Capability.png

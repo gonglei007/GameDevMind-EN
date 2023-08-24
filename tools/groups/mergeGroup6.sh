@@ -35,4 +35,4 @@ montage \
 	-geometry +20+40 	\
 	-background "#4A148C" 	\
 	-title "(6)"   \
-	../overview/6.运营能力.png
+	../overview/6.Operation Capability.png

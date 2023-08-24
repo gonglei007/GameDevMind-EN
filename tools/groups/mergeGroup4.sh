@@ -29,4 +29,4 @@ montage \
 	-geometry +20+40 	\
 	-background "#15831C" 	\
 	-title "(4)"   \
-	../overview/4.生产能力.png
+	../overview/4.Production Capability.png

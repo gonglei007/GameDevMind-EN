@@ -34,5 +34,5 @@ montage \
 	-geometry +20+40 	\
 	-background "#E32C2D" 	\
 	-title "(1)"   \
-	../overview/1.基础能力.png
+	../overview/1.Basic Capability.png
 

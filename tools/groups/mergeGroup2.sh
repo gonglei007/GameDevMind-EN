@@ -34,4 +34,4 @@ montage \
 	-geometry +20+40 	\
 	-background "#FF6F00" 	\
 	-title "(2)"   \
-	../overview/2.技术能力.png
+	../overview/2.Technical Capability.png

@@ -30,4 +30,4 @@ montage \
 	-geometry +20+40 	\
 	-background "#00526B" 	\
 	-title "(5)"   \
-	../overview/5.管理能力.png
+	../overview/5.Management Capability.png
