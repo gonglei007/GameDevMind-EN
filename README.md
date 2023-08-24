@@ -17,7 +17,10 @@
   </p>
 </p>
 <br/>
+
 [中文](https://github.com/gonglei007/GameDevMind)
+
+<br/>
 
 > *❝Our Vision❞* <br/><br/>help game developers save time by sharing knowledge and allow them to invest that saved time into creative work, thereby expanding the technological boundaries of the industry.
 
@@ -25,7 +28,7 @@
 
 ## Introduction
 <p>
-&emsp;&emsp;We recently organized an open source material library——"Online Game Development Map". The purpose is provide a quick manual for game technical developer to search or view the technology content in his work.
+We recently organized an open source material library——"Online Game Development Map". The purpose is provide a quick manual for game technical developer to search or view the technology content in his work.
 <br/>
 
 <div align="center">
