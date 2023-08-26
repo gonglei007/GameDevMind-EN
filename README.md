@@ -188,12 +188,12 @@ We recently organized an open source material library——"Online Game Developm
 </table>
 
 <br/>
-
+<!--
 ## Preview
 *[[ Map Overview ]](exports/0.Overview.png)*
 ![image loading...](overview/overview-h.png)
 <br/>
-
+-->
 ## Discussions
 
 [![Discussions repo roster for @gonglei007/GameDevMind-EN](https://reporoster.com/stars/gonglei007/GameDevMind-EN)](https://github.com/gonglei007/GameDevMind-EN/discussions)
@@ -219,7 +219,7 @@ We sincerely invite more contributors.
 ### Forkers
 [![Forkers repo roster for @gonglei007/GameDevMind-EN](https://reporoster.com/forks/gonglei007/GameDevMind-EN)](https://github.com/gonglei007/GameDevMind-EN/network/members)
 
-
+<!--
 ## Contact us
 Email: gonglei007@hotmail.com
-
+-->

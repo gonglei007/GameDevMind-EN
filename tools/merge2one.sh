@@ -13,12 +13,12 @@
 # all-in-one
 echo "合成overview-竖向"
 montage \
-    ../overview/1.Basic Capability.png \
-    ../overview/2.Technical Capability.png \
-    ../overview/3.Development Capability.png \
-    ../overview/4.Production Capability.png \
-    ../overview/5.Management Capability.png \
-    ../overview/6.Operation Capability.png \
+    "../overview/1.Basic Capability.png" \
+    "../overview/2.Technical Capability.png" \
+    "../overview/3.Development Capability.png" \
+    "../overview/4.Production Capability.png" \
+    "../overview/5.Management Capability.png" \
+    "../overview/6.Operation Capability.png" \
 \
 	-auto-orient 	\
 	-resize 1280x *  \
@@ -32,12 +32,12 @@ montage \
 
 echo "合成overview-横向"
 montage \
-    ../overview/1.Basic Capability.png \
-    ../overview/2.Technical Capability.png \
-    ../overview/3.Development Capability.png \
-    ../overview/4.Production Capability.png \
-    ../overview/5.Management Capability.png \
-    ../overview/6.Operation Capability.png \
+    "../overview/1.Basic Capability.png" \
+    "../overview/2.Technical Capability.png" \
+    "../overview/3.Development Capability.png" \
+    "../overview/4.Production Capability.png" \
+    "../overview/5.Management Capability.png" \
+    "../overview/6.Operation Capability.png" \
 \
 	-auto-orient 	\
 	-resize 480x *  \
