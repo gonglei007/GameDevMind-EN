@@ -200,14 +200,14 @@ We recently organized an open source material library——"Online Game Developm
 
 <!--
 ## Edit and View
-* Use XMind to edit content of folder /xminds/.<br/>
+* Use XMind to edit the content of folder /xminds/.<br/>
 * View quickly in folder /exports/.
 * Markdown text content folder（/mds/）。<br/>
 -->
 ## Repo rosters
 ## Contributors
 
-| [公雷(Initiator)](https://github.com/gonglei007),&emsp; [Game Atom](https://github.com/gameatom),&emsp;  ... |
+| [公雷(Initiator)](https://github.com/gonglei007),&emsp; [Game Atom](https://github.com/gameatom),&emsp; [Hardy LYU](https://github.com/Colythme),&emsp;  ... |
 | :---: |
 
 We sincerely invite more contributors.
