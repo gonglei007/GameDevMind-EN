@@ -207,7 +207,7 @@ We recently organized an open source material library——"Online Game Developm
 ## Repo rosters
 ## Contributors
 
-| [公雷(Initiator)](https://github.com/gonglei007),&emsp; [Game Atom](https://github.com/gameatom),&emsp; [Hardy LYU](https://github.com/Colythme),&emsp;  ... |
+| [公雷(Initiator)](https://github.com/gonglei007),&emsp; [Game Atom](https://github.com/gameatom),&emsp; [Hardy LYU](https://github.com/Colythme),&emsp;  [Amin Sojoudi](https://github.com/AminSojoudi),&emsp;  ... |
 | :---: |
 
 We sincerely invite more contributors.
